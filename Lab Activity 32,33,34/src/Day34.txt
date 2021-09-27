@@ -1,0 +1,10 @@
+ /*
+    Name: Shriman Selvamani, Hickson Frimpong, Edward Lue, Yash Kolli
+    Computing ID: ss5qt, haf3md , eyl4qaq, ysk6dw
+ */
+ 
+After 2 Remove Operations:
+9,8,11,15,17,16
+
+After 3 Add Operations:
+18,9,12,8,11,6,17,15,16
